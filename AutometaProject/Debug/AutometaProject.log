@@ -1,0 +1,3 @@
+﻿  AutometaProject.cpp
+D:\STUDYING\AutoMata\AutometaProject\AutometaProject.cpp(103,23): warning C4018: '<': signed/unsigned mismatch
+  AutometaProject.vcxproj -> D:\STUDYING\AutoMata\AutometaProject\Debug\AutometaProject.exe
